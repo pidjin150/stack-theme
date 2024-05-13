@@ -1,8 +1,8 @@
 ---
 title: First Site!
-description: Welcome to Hugo Theme Stack
+description: Test Post
 slug: hello-world
-date: 2022-03-06 00:00:00+0000
+date: 2024-05-12 00:00:00+0000
 image: cover.jpg
 categories:
     - Example Category
