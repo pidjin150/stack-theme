@@ -1,5 +1,5 @@
 ---
-title: Markdown Syntax Guide
+title: WEBSITE IS ONLINE (Alex G)
 date: 2023-09-07
 description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
 tags: 
